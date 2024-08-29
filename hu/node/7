@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="hu" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../rolam.html" />
+<link rel="shortlink" href="7" />
+<link rel="shortcut icon" href="../../sites/all/themes/makeup4you/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Rólam | Makeup4you smikek</title>
+  <link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_fDrG_yHTtgFgVsv8ZsfnZFbPFLJmUIzbylzJHifFik8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_mCTyF_8_svnZzHcpIUANct53tsKA4ExYIFlU-WtoCXw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_nexWAyhJYeJmoDdU_2fkBpTpUKmRYjYKIN0G_ZDG_mI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_1EseouOCyg0gD6CvC1HPG3lI3_XLIfUaBtnjSfZ9LBs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_VN1VgXG0X96PzfQHnZq0apMWIdwFDxmv9Tq0YsezYCk.css" media="all" />
+  <script type="text/javascript" src="../../sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="../../sites/default/files/js/js_L1jocwMW7yqNRrMdEUa0ucj2m5Pck4JAlnNOz5tZ7Gs.js"></script>
+<script type="text/javascript" src="../../sites/default/files/js/js_ay2VPpzJrniP7FUmBmWi8lMfn5fmxljAGb8zZ0lQntU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-18948907-26", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../../sites/default/files/js/js_2KlXA4Z5El1IQFVPxDN1aX5mIoMSFWGv3vwsP77K9yk.js"></script>
+<script type="text/javascript" src="../../sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"hu\/","ajaxPageState":{"theme":"makeup4you","theme_token":"cgBWu7fqjJhScLsQjgijR1l6ju9ZR2NncbiQ_9SJXw8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"modules\/locale\/locale.datepicker.js":1,"public:\/\/languages\/hu_gTJcpUDtFqCQs7vlNKvkAvJGhAZbIF5GCkEnHVL5YP0.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/makeup4you\/js\/webform.validation.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"public:\/\/honeypot\/honeypot.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/makeup4you\/css\/global.css":1,"normal::sites\/all\/themes\/makeup4you\/css\/makeup4you-alpha-default.css":1,"normal::sites\/all\/themes\/makeup4you\/css\/makeup4you-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"1"}}},"urlIsAjaxTrusted":{"\/hu\/bejelentkezes":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-7 node-type-page i18n-hu context-rolam.html">
+  <div id="skip-link">
+    <a href="7#main-content" class="element-invisible element-focusable">Ugrás a tartalomra</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-5 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="../../hu" rel="home" title=""><img src="../../sites/all/themes/makeup4you/logo.png" alt="" id="logo" /></a>      </div>
+                </div>
+          </div>
+</div><div class="grid-7 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-locale block-language block-locale-language odd block-without-title" id="block-locale-language">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <ul class="language-switcher-locale-url"><li class="sr first"><a href="o-meni.html" class="language-link" xml:lang="sr" title="O meni">Српски</a></li><li class="hu last active"><a href="../rolam.html" class="language-link active" xml:lang="hu" title="Rólam">Magyar</a></li></ul>    </div>
+  </div>
+</div><div class="block block-block block-3 block-block-3 even block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <p>Kövess a <a href="https://www.facebook.com/TundeSmink/" target="_blank">Facebook-on</a> és <a href="https://www.instagram.com/tunde_smink/" target="_blank">Instagramon</a>, ahol mindig értesülhetsz az újdonságokról. </p>
+    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-7 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <nav class="navigation">
+      <h2 class="element-invisible">Főmenü</h2><ul id="main-menu" class="links inline clearfix main-menu"><li class="menu-577 active-trail first active"><a href="../rolam.html" class="active-trail active">Rólam</a></li><li class="menu-586"><a href="hasznalt-markak.html">Oktatás</a></li><li class="menu-604 last"><a href="contact.html" title="">Kapcsolat</a></li></ul>          </nav>
+          </div>
+</div>
+  </div>
+</div></header>
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">
+  <div id="zone-content" class="zone zone-content clearfix container-12">
+
+        <aside class="grid-3 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="block block-menu block-menu-second-menu block-menu-menu-second-menu odd block-without-title" id="block-menu-menu-second-menu">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="galeria.html">Galéria</a></li>
+<li class="leaf"><a href="3d-szempilla.html">Szempilla</a></li>
+<li class="leaf"><a href="sminkek.html">Sminktetoválás</a></li>
+<li class="last leaf"><a href="lifting.html" title="">Lifting</a></li>
+</ul>    </div>
+  </div>
+</div><section class="block block-webform block-client-block-19 block-webform-client-block-19 even" id="block-webform-client-block-19">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Bejelentkezés</h2>
+
+    <div class="content clearfix">
+      <form class="webform-client-form" enctype="multipart/form-data" action="http://www.makeup4you.rs/hu/bejelentkezes" method="post" id="webform-client-form-19" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-textfield" id="webform-component-nev">
+  <label for="edit-submitted-nev">Név </label>
+ <input type="text" id="edit-submitted-nev" name="submitted[nev]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-telefon">
+  <label for="edit-submitted-telefon">Telefon </label>
+ <input type="text" id="edit-submitted-telefon" name="submitted[telefon]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item webform-component webform-component-email" id="webform-component-email">
+  <label for="edit-submitted-email">Email </label>
+ <input class="email form-text form-email" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+</div>
+<div class="form-item webform-component webform-component-date" id="webform-component-datum">
+  <label for="edit-submitted-datum">Dátum </label>
+ <div class="webform-container-inline webform-datepicker"><div class="form-item form-type-select form-item-submitted-datum-month">
+  <label class="element-invisible" for="edit-submitted-datum-month">Hónap </label>
+ <select class="month form-select" id="edit-submitted-datum-month" name="submitted[datum][month]"><option value="" selected="selected">Hónap</option><option value="1">jan</option><option value="2">feb</option><option value="3">már</option><option value="4">ápr</option><option value="5">máj</option><option value="6">jún</option><option value="7">júl</option><option value="8">aug</option><option value="9">szep</option><option value="10">okt</option><option value="11">nov</option><option value="12">dec</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-datum-day">
+  <label class="element-invisible" for="edit-submitted-datum-day">Nap </label>
+ <select class="day form-select" id="edit-submitted-datum-day" name="submitted[datum][day]"><option value="" selected="selected">Nap</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="lifting.html">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-datum-year">
+  <label class="element-invisible" for="edit-submitted-datum-year">Év </label>
+ <select class="year form-select" id="edit-submitted-datum-year" name="submitted[datum][year]"><option value="" selected="selected">Év</option><option value="2024">2024</option><option value="2025">2025</option></select>
+</div>
+<input type="image" src="../../sites/all/modules/webform/images/calendar.png" class="webform-calendar webform-calendar-start-2024-06-21 webform-calendar-end-2025-06-21 webform-calendar-day-1" alt="Open popup calendar" title="Open popup calendar" />
+</div>
+</div>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-vhkywLe_IlQ-YWiNZKYVb36STh16uSSD2kuYoOLeRF4" />
+<input type="hidden" name="form_id" value="webform_client_form_19" />
+<input type="hidden" name="honeypot_time" value="1718970493|zIwKbz99N8eHAJZB7MXwvnHyRlzaAPCqQnoOKWvUCEo" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Küldés" class="form-submit" /></div></div></form>    </div>
+  </div>
+</section><div class="block block-block block-7 block-block-7 odd block-without-title" id="block-block-7">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=441662499191698';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/TundeSmink/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TundeSmink/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TundeSmink/">Tünde - Smink</a></blockquote></div>    </div>
+  </div>
+</div>  </div>
+</aside><div class="grid-9 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Rólam</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <article about="/hu/rolam.html" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-studiopresent odd clearfix" id="node-page-7">
+        <span property="dc:title" content="Rólam" class="rdf-meta element-hidden"></span>
+
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img alt="" src="../../sites/default/files/styles/o-meni.png" style="float:left; height:438px; margin:10px; width:360px" /></p>
+<h2>Ki vagyok én?</h2>
+<p>A pillák szerelmese.</p>
+<p>Közgazdászként végeztem, de rájöttem, a sminkes/pillás szakma sokkal jobban érdekel. Ahogy egyre többet foglalkoztam vele, szórakozásból hivatássá vált.</p>
+<p>2013 óta pillázom és sminkelek, sok mindent láttam már, ami ebben a szakmában előfordulhat, megtapasztaltam jót és rosszat, sok-sok szettet megépítettem, folyamatosan képzem magam, mert mindig a legjobbra törekszem. Nincs megállás! Ez igaz a sminkre is, bár a pilla a szenvedélyem.</p>
+<p>Rengeteg lányt/nőt volt szerencsém megismerni, megszépíteni azóta. Akadt olyan, akit egy-egy fontos alkalomra: ballagásra, esküvőre, szülinapra, karácsonyra, újévre… De sokan vannak, akiknek a mindennapjait is folyamatosan könnyebbé teszem a pilláimmal, hisz reggel időt spórolok nekik, amikor munkába sietnek, vagy oviba a gyerekkel, önbizalmat adok, mert már ébredés után a tükörbe nézve szépnek látják magukat, és ez olyan jó érzés!</p>
+<p>Nekem fontos, hogy a vendégeim szép pillákkal járjanak az utcán, hogy irigykedve nézzenek a szemükbe, és ők büszkén mondhassák, nálam készült a pillájuk.</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+
+      </div>
+</article>    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>
+
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <section class="block block-block block-8 block-block-8 odd" id="block-block-8">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Social</h2>
+
+    <div class="content clearfix">
+      <ul>
+<li><a href="https://www.instagram.com/tunde_smink/" target="_blank">Instagram</a></li>
+<li><a href="https://www.facebook.com/TundeSmink/">Facebook</a></li>
+</ul>
+    </div>
+  </div>
+</section><div class="block block-block block-4 block-block-4 even block-without-title" id="block-block-4">
+  <div class="block-inner clearfix">
+
+    <div class="content clearfix">
+      <div>makeup4you - Professzionális smink szolgáltatások, szempilla lifting, 1D, 2D és Volume 3D-4D szempilla építés</div>
+<p>063-7415913 | <a href="mailto:info@makeup4you.rs">info@makeup4you.rs</a> | Szabadka</p>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div></body>
+</html>
